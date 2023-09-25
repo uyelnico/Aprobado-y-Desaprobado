@@ -6,9 +6,9 @@ Hola! Lo que va el proyecto de **Aprobado-y-Desaprobado** es que, compartiré co
 
 ## Aprobado y Desaprobado
 
-![image](https://github.com/uyelnico/Aprobado-y-Desaprobado/assets/145890121/ee45a1ea-ad22-4a10-9367-ffc4fca7f80d)
-![image](https://github.com/uyelnico/Aprobado-y-Desaprobado/assets/145890121/7b211da9-05e7-4c8c-b2b6-66a18357b809)
+![image](https://github.com/uyelnico/Aprobado-y-Desaprobado/assets/145890121/b4c182de-002e-40f1-9dae-fee675ec8988)
 
+![image](https://github.com/uyelnico/Aprobado-y-Desaprobado/assets/145890121/ee45a1ea-ad22-4a10-9367-ffc4fca7f80d)
 
 ## Package
 
