@@ -1,8 +1,8 @@
 ### IMPORTANTE
 
-Hola! Lo que va el proyecto de **Aprobado-y-Desaprobado** es que, compartiré como hice un programa para ver la lista de alumnos que estan aprobados y desaprobados con el código **Java**. Aviso que el código tanto como el proyecto se van a ir avanzando con el tiempo, lo mismo, que encontrar formas mas optimizables e efectivas a la hora de crear un código. Espero que con el programa que estoy creando te sea de ayuda, cualquier duda/pregunta que tengas podes hacerlo en mi Instagram **@uy.elnico**
+Hola! Lo que va el proyecto de **Aprobado-y-Desaprobado** es que, compartiré como hice un programa para ver la lista de alumnos que estan aprobados y desaprobados con el código **Java**. Aviso que el código tanto como el proyecto se van a ir avanzando con el tiempo, lo mismo, que encontrar formas mas optimizables e efectivas a la hora de crear un código. Espero que con el programa que estoy creando te sea de ayuda, cualquier duda/pregunta que tengas podes hacerlo en mi Instagram **@nicolay.metal**
 
-![image](https://github.com/uyelnico/Login/assets/145890121/f5fe4947-89d2-40a1-8ff9-93c85962355a)
+![image](https://github.com/uyelnico/uyelnico/assets/145890121/1e54bd6e-cffc-4d45-af0c-8a23edf0b64e)
 
 ## Aprobado y Desaprobado
 
